@@ -26,8 +26,7 @@ Contents:
                               CATALOGUES.
 
 2) MOC_Image_Area_Intersection_FromMask.py :     This is the MOC-code
-                                                 which can calculate the intersection between  
-                                                 THE IMAGE AND A CATALOGUE. That made it useful
+                                                 which can calculate the intersection between THE IMAGE AND A CATALOGUE. That made it useful
                                                  because at the time we had only the IRAC catalogue
                                                  and not the image.
              
